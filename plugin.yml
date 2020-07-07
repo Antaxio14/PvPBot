@@ -1,6 +1,6 @@
 name: Bot
 version: 1.0.0
-api: 3.0.0
+api: 4.0.0
 main: Bot\Main
 author: CLADev & VirulStudios Team
 
